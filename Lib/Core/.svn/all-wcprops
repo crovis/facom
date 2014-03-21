@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/medusa/!svn/ver/3539/trunk/webapp/facom/Lib/Core
+END
+Database.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/medusa/!svn/ver/3533/trunk/webapp/facom/Lib/Core/Database.php
+END
+Config.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/medusa/!svn/ver/3539/trunk/webapp/facom/Lib/Core/Config.php
+END
+HomeConfigurator.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/medusa/!svn/ver/3533/trunk/webapp/facom/Lib/Core/HomeConfigurator.php
+END

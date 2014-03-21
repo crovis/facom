@@ -1,0 +1,21 @@
+<?php
+$noticia = new Post();
+
+$noticias = $noticia->find(array('condition' => array('publicar' => '1', '(data_expiracao > current_timestamp)' => null), 'order' => array('data'), 'orderCondition' => 'DESC', 'limit' => 5));
+foreach ($noticias as $noti):
+    ?>
+    <li class="clear">
+        <!--<div class="imgl"><img src="images/demo/imgl.gif" alt="" /></div> -->
+        <div class="latestnews">
+            <p><a href="?section=new&itemId=<?php echo $noti['noticia']['cod'] ?>"><?php echo $noti['noticia']['titulo'] ?></a></p>
+            <p>
+                <?php echo limitText($noti['noticia']['texto'], 200); ?>
+            </p>
+            <p>
+                Publicado em: <?php echo date('d-m-y', strtotime($noti['noticia']['data'])) ?>
+            </p>
+        </div>
+    </li>
+    <?php
+endforeach;
+?>

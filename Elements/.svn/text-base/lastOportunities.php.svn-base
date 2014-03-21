@@ -1,0 +1,18 @@
+<?php
+$noticia = new Oportunity();
+$noticias = $noticia->find(array('condition' => array('publicar' => 1), 'order' => array('data'), 'orderCondition' => 'DESC', 'limit' => 5));
+foreach ($noticias as $noti):
+?>
+
+
+    <div class="clear">
+        <div class="latestusers">
+            <p><a href="?section=oportunidade&itemId=<?php echo $noti['oportunidade']['cod'] ?>"><?php echo $noti['oportunidade']['titulo'] ?></a></p>
+            <ul>
+				<li><p>Publicado em <?php echo date('d-m-y', strtotime($noti['oportunidade']['data'])); ?></p></li>
+			</ul>
+		</div>
+    </div>
+    <?php
+endforeach;
+?>

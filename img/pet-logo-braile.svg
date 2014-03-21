@@ -1,0 +1,933 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="pet-logo-braile.svg">
+  <defs
+     id="defs4">
+    <filter
+       id="filter3880"
+       inkscape:label="Inner Glow"
+       inkscape:menu="Shadows and Glows"
+       inkscape:menu-tooltip="Adds a colorizable glow inside"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur3882"
+         stdDeviation="10"
+         result="result8" />
+      <feComposite
+         id="feComposite3884"
+         in2="result8"
+         result="result6"
+         in="SourceGraphic"
+         operator="in" />
+      <feComposite
+         id="feComposite3886"
+         in2="result6"
+         operator="in"
+         result="result11" />
+      <feFlood
+         id="feFlood3888"
+         result="result10"
+         in="result11"
+         flood-opacity="1"
+         flood-color="rgb(255,222,85)" />
+      <feBlend
+         id="feBlend3890"
+         in2="result10"
+         mode="normal"
+         in="result11"
+         result="result12" />
+      <feComposite
+         id="feComposite3892"
+         in2="SourceGraphic"
+         result="result2"
+         operator="in"
+         in="result12" />
+    </filter>
+    <filter
+       id="filter3880-0"
+       inkscape:label="Inner Glow"
+       inkscape:menu="Shadows and Glows"
+       inkscape:menu-tooltip="Adds a colorizable glow inside"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur3882-2"
+         stdDeviation="10"
+         result="result8" />
+      <feComposite
+         id="feComposite3884-4"
+         in2="result8"
+         result="result6"
+         in="SourceGraphic"
+         operator="in" />
+      <feComposite
+         id="feComposite3886-8"
+         in2="result6"
+         operator="in"
+         result="result11" />
+      <feFlood
+         id="feFlood3888-6"
+         result="result10"
+         in="result11"
+         flood-opacity="1"
+         flood-color="rgb(255,222,85)" />
+      <feBlend
+         id="feBlend3890-5"
+         in2="result10"
+         mode="normal"
+         in="result11"
+         result="result12" />
+      <feComposite
+         id="feComposite3892-0"
+         in2="SourceGraphic"
+         result="result2"
+         operator="in"
+         in="result12" />
+    </filter>
+    <filter
+       id="filter3957"
+       inkscape:label="Alpha draw"
+       inkscape:menu="Image effects, transparent"
+       inkscape:menu-tooltip="Gives a transparent drawing effect to bitmaps and materials"
+       height="1"
+       width="1"
+       y="0"
+       x="0"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur3959"
+         result="result8"
+         stdDeviation="0.6" />
+      <feConvolveMatrix
+         id="feConvolveMatrix3961"
+         order="3 3"
+         kernelMatrix="1 1 1 1 -8 1 1 1 1 "
+         in="result8"
+         divisor="1"
+         targetX="1"
+         targetY="1"
+         preserveAlpha="true"
+         result="result0"
+         bias="0" />
+      <feColorMatrix
+         id="feColorMatrix3963"
+         values="1"
+         in="result0"
+         result="result1"
+         type="luminanceToAlpha" />
+      <feComposite
+         id="feComposite3965"
+         in2="result1"
+         k2="10"
+         in="result1"
+         result="result2"
+         operator="arithmetic" />
+      <feGaussianBlur
+         id="feGaussianBlur3967"
+         result="result7"
+         in="result2"
+         stdDeviation="0.01" />
+      <feColorMatrix
+         id="feColorMatrix3969"
+         result="result9"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 8 -1.7 " />
+      <feFlood
+         id="feFlood3971"
+         flood-opacity="1"
+         result="result10"
+         flood-color="rgb(0,0,0)" />
+      <feComposite
+         id="feComposite3973"
+         in2="result9"
+         in="result10"
+         operator="in"
+         result="result11" />
+      <feComposite
+         id="feComposite3975"
+         in2="result11"
+         operator="in" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="5.6"
+     inkscape:cx="907.65273"
+     inkscape:cy="332.62638"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="706"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-574.28571"
+       y="389.50504"
+       id="text2985"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan2987"
+         x="-574.28571"
+         y="389.50504" /></text>
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:none"
+       id="rect3151"
+       width="561.36334"
+       height="346.94162"
+       x="-840"
+       y="180.31995" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       id="path3027"
+       sodipodi:cx="270.35715"
+       sodipodi:cy="449.14789"
+       sodipodi:rx="51.785713"
+       sodipodi:ry="51.785713"
+       d="m 322.14286,449.14789 a 51.785713,51.785713 0 1 1 -103.57143,0 51.785713,51.785713 0 1 1 103.57143,0 z"
+       transform="matrix(0.62202704,0,0,0.62202704,-937.41686,-11.445618)" />
+    <path
+       d="m 322.14286,449.14789 a 51.785713,51.785713 0 1 1 -103.57143,0 51.785713,51.785713 0 1 1 103.57143,0 z"
+       sodipodi:ry="51.785713"
+       sodipodi:rx="51.785713"
+       sodipodi:cy="449.14789"
+       sodipodi:cx="270.35715"
+       id="path3029"
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       sodipodi:type="arc"
+       transform="matrix(0.31101352,0,0,0.31101352,-770.42996,204.7407)" />
+    <path
+       transform="matrix(0.62202704,0,0,0.62202704,-854.5147,-11.445618)"
+       d="m 322.14286,449.14789 a 51.785713,51.785713 0 1 1 -103.57143,0 51.785713,51.785713 0 1 1 103.57143,0 z"
+       sodipodi:ry="51.785713"
+       sodipodi:rx="51.785713"
+       sodipodi:cy="449.14789"
+       sodipodi:cx="270.35715"
+       id="path3031"
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       sodipodi:type="arc" />
+    <path
+       transform="matrix(0.62202704,0,0,0.62202704,-937.41686,65.049632)"
+       d="m 322.14286,449.14789 a 51.785713,51.785713 0 1 1 -103.57143,0 51.785713,51.785713 0 1 1 103.57143,0 z"
+       sodipodi:ry="51.785713"
+       sodipodi:rx="51.785713"
+       sodipodi:cy="449.14789"
+       sodipodi:cx="270.35715"
+       id="path3035"
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       sodipodi:type="arc" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       id="path3037"
+       sodipodi:cx="270.35715"
+       sodipodi:cy="449.14789"
+       sodipodi:rx="51.785713"
+       sodipodi:ry="51.785713"
+       d="m 322.14286,449.14789 a 51.785713,51.785713 0 1 1 -103.57143,0 51.785713,51.785713 0 1 1 103.57143,0 z"
+       transform="matrix(0.62202704,0,0,0.62202704,-937.41686,141.43836)" />
+    <path
+       transform="matrix(0.31101352,0,0,0.31101352,-770.42996,281.12943)"
+       sodipodi:type="arc"
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       id="path3039"
+       sodipodi:cx="270.35715"
+       sodipodi:cy="449.14789"
+       sodipodi:rx="51.785713"
+       sodipodi:ry="51.785713"
+       d="m 322.14286,449.14789 a 51.785713,51.785713 0 1 1 -103.57143,0 51.785713,51.785713 0 1 1 103.57143,0 z" />
+    <path
+       transform="matrix(0.62202704,0,0,0.62202704,-769.91386,-11.445618)"
+       d="m 322.14286,449.14789 a 51.785713,51.785713 0 1 1 -103.57143,0 51.785713,51.785713 0 1 1 103.57143,0 z"
+       sodipodi:ry="51.785713"
+       sodipodi:rx="51.785713"
+       sodipodi:cy="449.14789"
+       sodipodi:cx="270.35715"
+       id="path3115"
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       sodipodi:type="arc" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       id="path3121"
+       sodipodi:cx="270.35715"
+       sodipodi:cy="449.14789"
+       sodipodi:rx="51.785713"
+       sodipodi:ry="51.785713"
+       d="m 322.14286,449.14789 a 51.785713,51.785713 0 1 1 -103.57143,0 51.785713,51.785713 0 1 1 103.57143,0 z"
+       transform="matrix(0.62202704,0,0,0.62202704,-686.32506,65.049632)" />
+    <path
+       d="m 322.14286,449.14789 a 51.785713,51.785713 0 1 1 -103.57143,0 51.785713,51.785713 0 1 1 103.57143,0 z"
+       sodipodi:ry="51.785713"
+       sodipodi:rx="51.785713"
+       sodipodi:cy="449.14789"
+       sodipodi:cx="270.35715"
+       id="path3125"
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       sodipodi:type="arc"
+       transform="matrix(0.31101352,0,0,0.31101352,-602.24033,281.12943)" />
+    <path
+       transform="matrix(0.31101352,0,0,0.31101352,-602.24033,128.24545)"
+       sodipodi:type="arc"
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       id="path3117"
+       sodipodi:cx="270.35715"
+       sodipodi:cy="449.14789"
+       sodipodi:rx="51.785713"
+       sodipodi:ry="51.785713"
+       d="m 322.14286,449.14789 a 51.785713,51.785713 0 1 1 -103.57143,0 51.785713,51.785713 0 1 1 103.57143,0 z" />
+    <path
+       d="m 322.14286,449.14789 a 51.785713,51.785713 0 1 1 -103.57143,0 51.785713,51.785713 0 1 1 103.57143,0 z"
+       sodipodi:ry="51.785713"
+       sodipodi:rx="51.785713"
+       sodipodi:cy="449.14789"
+       sodipodi:cx="270.35715"
+       id="path3129"
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       sodipodi:type="arc"
+       transform="matrix(0.31101352,0,0,0.31101352,-685.82913,204.7407)" />
+    <path
+       d="m 322.14286,449.14789 a 51.785713,51.785713 0 1 1 -103.57143,0 51.785713,51.785713 0 1 1 103.57143,0 z"
+       sodipodi:ry="51.785713"
+       sodipodi:rx="51.785713"
+       sodipodi:cy="449.14789"
+       sodipodi:cx="270.35715"
+       id="path3131"
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       sodipodi:type="arc"
+       transform="matrix(0.31101352,0,0,0.31101352,-685.82913,281.12943)" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       id="path3133"
+       sodipodi:cx="270.35715"
+       sodipodi:cy="449.14789"
+       sodipodi:rx="51.785713"
+       sodipodi:ry="51.785713"
+       d="m 322.14286,449.14789 a 51.785713,51.785713 0 1 1 -103.57143,0 51.785713,51.785713 0 1 1 103.57143,0 z"
+       transform="matrix(0.62202704,0,0,0.62202704,-601.03171,65.049632)" />
+    <path
+       transform="matrix(0.62202704,0,0,0.62202704,-517.44291,65.049632)"
+       d="m 322.14286,449.14789 a 51.785713,51.785713 0 1 1 -103.57143,0 51.785713,51.785713 0 1 1 103.57143,0 z"
+       sodipodi:ry="51.785713"
+       sodipodi:rx="51.785713"
+       sodipodi:cy="449.14789"
+       sodipodi:cx="270.35715"
+       id="path3135"
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       sodipodi:type="arc" />
+    <path
+       transform="matrix(0.31101352,0,0,0.31101352,-433.35818,281.12943)"
+       sodipodi:type="arc"
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       id="path3137"
+       sodipodi:cx="270.35715"
+       sodipodi:cy="449.14789"
+       sodipodi:rx="51.785713"
+       sodipodi:ry="51.785713"
+       d="m 322.14286,449.14789 a 51.785713,51.785713 0 1 1 -103.57143,0 51.785713,51.785713 0 1 1 103.57143,0 z" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       id="path3149"
+       sodipodi:cx="270.35715"
+       sodipodi:cy="449.14789"
+       sodipodi:rx="51.785713"
+       sodipodi:ry="51.785713"
+       d="m 322.14286,449.14789 a 51.785713,51.785713 0 1 1 -103.57143,0 51.785713,51.785713 0 1 1 103.57143,0 z"
+       transform="matrix(0.62202704,0,0,0.62202704,-517.44291,-11.445618)" />
+    <path
+       transform="matrix(0.62202704,0,0,0.62202704,-601.03171,141.43836)"
+       d="m 322.14286,449.14789 a 51.785713,51.785713 0 1 1 -103.57143,0 51.785713,51.785713 0 1 1 103.57143,0 z"
+       sodipodi:ry="51.785713"
+       sodipodi:rx="51.785713"
+       sodipodi:cy="449.14789"
+       sodipodi:cx="270.35715"
+       id="path3147"
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       sodipodi:type="arc" />
+    <path
+       transform="matrix(0.31101352,0,0,0.31101352,-517.00692,128.24545)"
+       sodipodi:type="arc"
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       id="path3145"
+       sodipodi:cx="270.35715"
+       sodipodi:cy="449.14789"
+       sodipodi:rx="51.785713"
+       sodipodi:ry="51.785713"
+       d="m 322.14286,449.14789 a 51.785713,51.785713 0 1 1 -103.57143,0 51.785713,51.785713 0 1 1 103.57143,0 z" />
+    <g
+       id="g3837"
+       transform="matrix(0.175,0,0,0.175,934.22599,481.90162)"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       style="fill:#800000;fill-opacity:1;stroke:none"
+       inkscape:export-filename="C:\Users\clovis\projetos\facom-template\img\pet-logo.png">
+      <g
+         transform="matrix(1.0466424,0,0,1.0466424,-12.957538,-51.024597)"
+         style="fill:#800000;fill-opacity:1;stroke:none"
+         id="g3044">
+        <g
+           id="g3822"
+           transform="matrix(7.2493851,0,0,7.2493851,-7438.1529,-7169.1895)"
+           style="fill:#800000;fill-opacity:1;stroke:none"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90"
+           inkscape:export-filename="C:\Users\clovis\projetos\facom-template\img\pet-logo.png">
+          <path
+             inkscape:export-ydpi="90"
+             inkscape:export-xdpi="90"
+             inkscape:export-filename="C:\Users\clovis\projetos\facom-template\img\pet-logo.png"
+             sodipodi:type="arc"
+             style="fill:#800000;fill-opacity:1;stroke:none"
+             id="path3155"
+             sodipodi:cx="270.35715"
+             sodipodi:cy="449.14789"
+             sodipodi:rx="51.785713"
+             sodipodi:ry="51.785713"
+             d="m 322.14286,449.14789 c 0,28.60046 -23.18525,51.78571 -51.78571,51.78571 -28.60046,0 -51.78572,-23.18525 -51.78572,-51.78571 0,-28.60046 23.18526,-51.78572 51.78572,-51.78572 28.60046,0 51.78571,23.18526 51.78571,51.78572 z"
+             transform="matrix(0.14943206,0,0,0.14943206,1031.6989,1027.7437)" />
+          <path
+             inkscape:export-ydpi="90"
+             inkscape:export-xdpi="90"
+             inkscape:export-filename="C:\Users\clovis\projetos\facom-template\img\pet-logo.png"
+             d="m 322.14286,449.14789 c 0,28.60046 -23.18525,51.78571 -51.78571,51.78571 -28.60046,0 -51.78572,-23.18525 -51.78572,-51.78571 0,-28.60046 23.18526,-51.78572 51.78572,-51.78572 28.60046,0 51.78571,23.18526 51.78571,51.78572 z"
+             sodipodi:ry="51.785713"
+             sodipodi:rx="51.785713"
+             sodipodi:cy="449.14789"
+             sodipodi:cx="270.35715"
+             id="path3157"
+             style="fill:#800000;fill-opacity:1;stroke:none"
+             sodipodi:type="arc"
+             transform="matrix(0.07471604,0,0,0.07471604,1071.8148,1079.6791)" />
+          <path
+             inkscape:export-ydpi="90"
+             inkscape:export-xdpi="90"
+             inkscape:export-filename="C:\Users\clovis\projetos\facom-template\img\pet-logo.png"
+             sodipodi:type="arc"
+             style="fill:#800000;fill-opacity:1;stroke:none"
+             id="path3163"
+             sodipodi:cx="270.35715"
+             sodipodi:cy="449.14789"
+             sodipodi:rx="51.785713"
+             sodipodi:ry="51.785713"
+             d="m 322.14286,449.14789 c 0,28.60046 -23.18525,51.78571 -51.78571,51.78571 -28.60046,0 -51.78572,-23.18525 -51.78572,-51.78571 0,-28.60046 23.18526,-51.78572 51.78572,-51.78572 28.60046,0 51.78571,23.18526 51.78571,51.78572 z"
+             transform="matrix(0.14943206,0,0,0.14943206,1031.6989,1064.8547)" />
+          <path
+             inkscape:export-ydpi="90"
+             inkscape:export-xdpi="90"
+             inkscape:export-filename="C:\Users\clovis\projetos\facom-template\img\pet-logo.png"
+             transform="matrix(0.07471604,0,0,0.07471604,1071.8148,1098.4134)"
+             sodipodi:type="arc"
+             style="fill:#800000;fill-opacity:1;stroke:none"
+             id="path3165"
+             sodipodi:cx="270.35715"
+             sodipodi:cy="449.14789"
+             sodipodi:rx="51.785713"
+             sodipodi:ry="51.785713"
+             d="m 322.14286,449.14789 c 0,28.60046 -23.18525,51.78571 -51.78571,51.78571 -28.60046,0 -51.78572,-23.18525 -51.78572,-51.78571 0,-28.60046 23.18526,-51.78572 51.78572,-51.78572 28.60046,0 51.78571,23.18526 51.78571,51.78572 z" />
+          <path
+             inkscape:export-ydpi="90"
+             inkscape:export-xdpi="90"
+             inkscape:export-filename="C:\Users\clovis\projetos\facom-template\img\pet-logo.png"
+             transform="matrix(0.14943206,0,0,0.14943206,1071.9388,1027.7437)"
+             d="m 322.14286,449.14789 c 0,28.60046 -23.18525,51.78571 -51.78571,51.78571 -28.60046,0 -51.78572,-23.18525 -51.78572,-51.78571 0,-28.60046 23.18526,-51.78572 51.78572,-51.78572 28.60046,0 51.78571,23.18526 51.78571,51.78572 z"
+             sodipodi:ry="51.785713"
+             sodipodi:rx="51.785713"
+             sodipodi:cy="449.14789"
+             sodipodi:cx="270.35715"
+             id="path3167"
+             style="fill:#800000;fill-opacity:1;stroke:none"
+             sodipodi:type="arc" />
+          <path
+             inkscape:export-ydpi="90"
+             inkscape:export-xdpi="90"
+             inkscape:export-filename="C:\Users\clovis\projetos\facom-template\img\pet-logo.png"
+             sodipodi:type="arc"
+             style="fill:#800000;fill-opacity:1;stroke:none"
+             id="path3169"
+             sodipodi:cx="270.35715"
+             sodipodi:cy="449.14789"
+             sodipodi:rx="51.785713"
+             sodipodi:ry="51.785713"
+             d="m 322.14286,449.14789 c 0,28.60046 -23.18525,51.78571 -51.78571,51.78571 -28.60046,0 -51.78572,-23.18525 -51.78572,-51.78571 0,-28.60046 23.18526,-51.78572 51.78572,-51.78572 28.60046,0 51.78571,23.18526 51.78571,51.78572 z"
+             transform="matrix(0.14943206,0,0,0.14943206,1092.0197,1046.1553)" />
+          <path
+             inkscape:export-ydpi="90"
+             inkscape:export-xdpi="90"
+             inkscape:export-filename="C:\Users\clovis\projetos\facom-template\img\pet-logo.png"
+             transform="matrix(0.14943206,0,0,0.14943206,1092.0197,1064.985)"
+             d="m 322.14286,449.14789 c 0,28.60046 -23.18525,51.78571 -51.78571,51.78571 -28.60046,0 -51.78572,-23.18525 -51.78572,-51.78571 0,-28.60046 23.18526,-51.78572 51.78572,-51.78572 28.60046,0 51.78571,23.18526 51.78571,51.78572 z"
+             sodipodi:ry="51.785713"
+             sodipodi:rx="51.785713"
+             sodipodi:cy="449.14789"
+             sodipodi:cx="270.35715"
+             id="path3201"
+             style="fill:#800000;fill-opacity:1;stroke:none"
+             sodipodi:type="arc" />
+          <path
+             inkscape:export-ydpi="90"
+             inkscape:export-xdpi="90"
+             inkscape:export-filename="C:\Users\clovis\projetos\facom-template\img\pet-logo.png"
+             transform="matrix(0.07471604,0,0,0.07471604,1112.2196,1061.3022)"
+             sodipodi:type="arc"
+             style="fill:#800000;fill-opacity:1;stroke:none"
+             id="path3173"
+             sodipodi:cx="270.35715"
+             sodipodi:cy="449.14789"
+             sodipodi:rx="51.785713"
+             sodipodi:ry="51.785713"
+             d="m 322.14286,449.14789 c 0,28.60046 -23.18525,51.78571 -51.78571,51.78571 -28.60046,0 -51.78572,-23.18525 -51.78572,-51.78571 0,-28.60046 23.18526,-51.78572 51.78572,-51.78572 28.60046,0 51.78571,23.18526 51.78571,51.78572 z" />
+          <path
+             inkscape:export-ydpi="90"
+             inkscape:export-xdpi="90"
+             inkscape:export-filename="C:\Users\clovis\projetos\facom-template\img\pet-logo.png"
+             sodipodi:type="arc"
+             style="fill:#800000;fill-opacity:1;stroke:none"
+             id="path3199"
+             sodipodi:cx="270.35715"
+             sodipodi:cy="449.14789"
+             sodipodi:rx="51.785713"
+             sodipodi:ry="51.785713"
+             d="m 322.14286,449.14789 c 0,28.60046 -23.18525,51.78571 -51.78571,51.78571 -28.60046,0 -51.78572,-23.18525 -51.78572,-51.78571 0,-28.60046 23.18526,-51.78572 51.78572,-51.78572 28.60046,0 51.78571,23.18526 51.78571,51.78572 z"
+             transform="matrix(0.14943206,0,0,0.14943206,1071.9388,1046.1553)" />
+          <path
+             inkscape:export-ydpi="90"
+             inkscape:export-xdpi="90"
+             inkscape:export-filename="C:\Users\clovis\projetos\facom-template\img\pet-logo.png"
+             d="m 322.14286,449.14789 c 0,28.60046 -23.18525,51.78571 -51.78571,51.78571 -28.60046,0 -51.78572,-23.18525 -51.78572,-51.78571 0,-28.60046 23.18526,-51.78572 51.78572,-51.78572 28.60046,0 51.78571,23.18526 51.78571,51.78572 z"
+             sodipodi:ry="51.785713"
+             sodipodi:rx="51.785713"
+             sodipodi:cy="449.14789"
+             sodipodi:cx="270.35715"
+             id="path3177"
+             style="fill:#800000;fill-opacity:1;stroke:none"
+             sodipodi:type="arc"
+             transform="matrix(0.07471604,0,0,0.07471604,1092.1388,1098.4134)" />
+          <path
+             inkscape:export-ydpi="90"
+             inkscape:export-xdpi="90"
+             inkscape:export-filename="C:\Users\clovis\projetos\facom-template\img\pet-logo.png"
+             d="m 322.14286,449.14789 c 0,28.60046 -23.18525,51.78571 -51.78571,51.78571 -28.60046,0 -51.78572,-23.18525 -51.78572,-51.78571 0,-28.60046 23.18526,-51.78572 51.78572,-51.78572 28.60046,0 51.78571,23.18526 51.78571,51.78572 z"
+             sodipodi:ry="51.785713"
+             sodipodi:rx="51.785713"
+             sodipodi:cy="449.14789"
+             sodipodi:cx="270.35715"
+             id="path3203"
+             style="fill:#800000;fill-opacity:1;stroke:none"
+             sodipodi:type="arc"
+             transform="matrix(0.07471604,0,0,0.07471604,1132.6956,1079.6242)" />
+          <path
+             inkscape:export-ydpi="90"
+             inkscape:export-xdpi="90"
+             inkscape:export-filename="C:\Users\clovis\projetos\facom-template\img\pet-logo.png"
+             transform="matrix(0.07471604,0,0,0.07471604,1152.7909,1098.4134)"
+             sodipodi:type="arc"
+             style="fill:#800000;fill-opacity:1;stroke:none"
+             id="path3183"
+             sodipodi:cx="270.35715"
+             sodipodi:cy="449.14789"
+             sodipodi:rx="51.785713"
+             sodipodi:ry="51.785713"
+             d="m 322.14286,449.14789 c 0,28.60046 -23.18525,51.78571 -51.78571,51.78571 -28.60046,0 -51.78572,-23.18525 -51.78572,-51.78571 0,-28.60046 23.18526,-51.78572 51.78572,-51.78572 28.60046,0 51.78571,23.18526 51.78571,51.78572 z" />
+          <path
+             inkscape:export-ydpi="90"
+             inkscape:export-xdpi="90"
+             inkscape:export-filename="C:\Users\clovis\projetos\facom-template\img\pet-logo.png"
+             sodipodi:type="arc"
+             style="fill:#800000;fill-opacity:1;stroke:none"
+             id="path3185"
+             sodipodi:cx="270.35715"
+             sodipodi:cy="449.14789"
+             sodipodi:rx="51.785713"
+             sodipodi:ry="51.785713"
+             d="m 322.14286,449.14789 c 0,28.60046 -23.18525,51.78571 -51.78571,51.78571 -28.60046,0 -51.78572,-23.18525 -51.78572,-51.78571 0,-28.60046 23.18526,-51.78572 51.78572,-51.78572 28.60046,0 51.78571,23.18526 51.78571,51.78572 z"
+             transform="matrix(0.14943206,0,0,0.14943206,1132.5909,1027.7437)" />
+          <path
+             inkscape:export-ydpi="90"
+             inkscape:export-xdpi="90"
+             inkscape:export-filename="C:\Users\clovis\projetos\facom-template\img\pet-logo.png"
+             transform="matrix(0.07471604,0,0,0.07471604,1132.6956,1061.3022)"
+             sodipodi:type="arc"
+             style="fill:#800000;fill-opacity:1;stroke:none"
+             id="path3189"
+             sodipodi:cx="270.35715"
+             sodipodi:cy="449.14789"
+             sodipodi:rx="51.785713"
+             sodipodi:ry="51.785713"
+             d="m 322.14286,449.14789 c 0,28.60046 -23.18525,51.78571 -51.78571,51.78571 -28.60046,0 -51.78572,-23.18525 -51.78572,-51.78571 0,-28.60046 23.18526,-51.78572 51.78572,-51.78572 28.60046,0 51.78571,23.18526 51.78571,51.78572 z" />
+          <path
+             inkscape:export-ydpi="90"
+             inkscape:export-xdpi="90"
+             inkscape:export-filename="C:\Users\clovis\projetos\facom-template\img\pet-logo.png"
+             transform="matrix(0.07471604,0,0,0.07471604,1071.8148,1061.3022)"
+             sodipodi:type="arc"
+             style="fill:#800000;fill-opacity:1;stroke:none"
+             id="path3195"
+             sodipodi:cx="270.35715"
+             sodipodi:cy="449.14789"
+             sodipodi:rx="51.785713"
+             sodipodi:ry="51.785713"
+             d="m 322.14286,449.14789 c 0,28.60046 -23.18525,51.78571 -51.78571,51.78571 -28.60046,0 -51.78572,-23.18525 -51.78572,-51.78571 0,-28.60046 23.18526,-51.78572 51.78572,-51.78572 28.60046,0 51.78571,23.18526 51.78571,51.78572 z" />
+          <path
+             inkscape:export-ydpi="90"
+             inkscape:export-xdpi="90"
+             inkscape:export-filename="C:\Users\clovis\projetos\facom-template\img\pet-logo.png"
+             transform="matrix(0.07471604,0,0,0.07471604,1051.9097,1079.6791)"
+             sodipodi:type="arc"
+             style="fill:#800000;fill-opacity:1;stroke:none"
+             id="path3197"
+             sodipodi:cx="270.35715"
+             sodipodi:cy="449.14789"
+             sodipodi:rx="51.785713"
+             sodipodi:ry="51.785713"
+             d="m 322.14286,449.14789 c 0,28.60046 -23.18525,51.78571 -51.78571,51.78571 -28.60046,0 -51.78572,-23.18525 -51.78572,-51.78571 0,-28.60046 23.18526,-51.78572 51.78572,-51.78572 28.60046,0 51.78571,23.18526 51.78571,51.78572 z" />
+          <path
+             inkscape:export-ydpi="90"
+             inkscape:export-xdpi="90"
+             inkscape:export-filename="C:\Users\clovis\projetos\facom-template\img\pet-logo.png"
+             d="m 322.14286,449.14789 c 0,28.60046 -23.18525,51.78571 -51.78571,51.78571 -28.60046,0 -51.78572,-23.18525 -51.78572,-51.78571 0,-28.60046 23.18526,-51.78572 51.78572,-51.78572 28.60046,0 51.78571,23.18526 51.78571,51.78572 z"
+             sodipodi:ry="51.785713"
+             sodipodi:rx="51.785713"
+             sodipodi:cy="449.14789"
+             sodipodi:cx="270.35715"
+             id="path3205"
+             style="fill:#800000;fill-opacity:1;stroke:none"
+             sodipodi:type="arc"
+             transform="matrix(0.07471604,0,0,0.07471604,1152.7909,1079.4979)" />
+          <path
+             inkscape:export-ydpi="90"
+             inkscape:export-xdpi="90"
+             inkscape:export-filename="C:\Users\clovis\projetos\facom-template\img\pet-logo.png"
+             d="m 322.14286,449.14789 c 0,28.60046 -23.18525,51.78571 -51.78571,51.78571 -28.60046,0 -51.78572,-23.18525 -51.78572,-51.78571 0,-28.60046 23.18526,-51.78572 51.78572,-51.78572 28.60046,0 51.78571,23.18526 51.78571,51.78572 z"
+             sodipodi:ry="51.785713"
+             sodipodi:rx="51.785713"
+             sodipodi:cy="449.14789"
+             sodipodi:cx="270.35715"
+             id="path3207"
+             style="fill:#800000;fill-opacity:1;stroke:none"
+             sodipodi:type="arc"
+             transform="matrix(0.07471604,0,0,0.07471604,1132.7097,1098.4134)" />
+        </g>
+      </g>
+    </g>
+    <g
+       inkscape:export-filename="C:\Users\clovis\projetos\facom-template\img\pet-logo.png"
+       style="fill:#800000;fill-opacity:1;stroke:none"
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       transform="matrix(0.175,0,0,0.175,934.22599,481.90162)"
+       id="g3981">
+      <g
+         id="g3983"
+         style="fill:#800000;fill-opacity:1;stroke:none"
+         transform="matrix(1.0466424,0,0,1.0466424,-12.957538,-51.024597)">
+        <g
+           inkscape:export-filename="C:\Users\clovis\projetos\facom-template\img\pet-logo.png"
+           inkscape:export-ydpi="90"
+           inkscape:export-xdpi="90"
+           style="fill:#800000;fill-opacity:1;stroke:none"
+           transform="matrix(7.2493851,0,0,7.2493851,-7438.1529,-7169.1895)"
+           id="g3985">
+          <path
+             transform="matrix(0.14943206,0,0,0.14943206,1031.6989,1027.7437)"
+             d="m 322.14286,449.14789 c 0,28.60046 -23.18525,51.78571 -51.78571,51.78571 -28.60046,0 -51.78572,-23.18525 -51.78572,-51.78571 0,-28.60046 23.18526,-51.78572 51.78572,-51.78572 28.60046,0 51.78571,23.18526 51.78571,51.78572 z"
+             sodipodi:ry="51.785713"
+             sodipodi:rx="51.785713"
+             sodipodi:cy="449.14789"
+             sodipodi:cx="270.35715"
+             id="path3987"
+             style="fill:#800000;fill-opacity:1;stroke:none"
+             sodipodi:type="arc"
+             inkscape:export-filename="C:\Users\clovis\projetos\facom-template\img\pet-logo.png"
+             inkscape:export-xdpi="90"
+             inkscape:export-ydpi="90" />
+          <path
+             transform="matrix(0.07471604,0,0,0.07471604,1071.8148,1079.6791)"
+             sodipodi:type="arc"
+             style="fill:#800000;fill-opacity:1;stroke:none"
+             id="path3989"
+             sodipodi:cx="270.35715"
+             sodipodi:cy="449.14789"
+             sodipodi:rx="51.785713"
+             sodipodi:ry="51.785713"
+             d="m 322.14286,449.14789 c 0,28.60046 -23.18525,51.78571 -51.78571,51.78571 -28.60046,0 -51.78572,-23.18525 -51.78572,-51.78571 0,-28.60046 23.18526,-51.78572 51.78572,-51.78572 28.60046,0 51.78571,23.18526 51.78571,51.78572 z"
+             inkscape:export-filename="C:\Users\clovis\projetos\facom-template\img\pet-logo.png"
+             inkscape:export-xdpi="90"
+             inkscape:export-ydpi="90" />
+          <path
+             transform="matrix(0.14943206,0,0,0.14943206,1031.6989,1064.8547)"
+             d="m 322.14286,449.14789 c 0,28.60046 -23.18525,51.78571 -51.78571,51.78571 -28.60046,0 -51.78572,-23.18525 -51.78572,-51.78571 0,-28.60046 23.18526,-51.78572 51.78572,-51.78572 28.60046,0 51.78571,23.18526 51.78571,51.78572 z"
+             sodipodi:ry="51.785713"
+             sodipodi:rx="51.785713"
+             sodipodi:cy="449.14789"
+             sodipodi:cx="270.35715"
+             id="path3991"
+             style="fill:#800000;fill-opacity:1;stroke:none"
+             sodipodi:type="arc"
+             inkscape:export-filename="C:\Users\clovis\projetos\facom-template\img\pet-logo.png"
+             inkscape:export-xdpi="90"
+             inkscape:export-ydpi="90" />
+          <path
+             d="m 322.14286,449.14789 c 0,28.60046 -23.18525,51.78571 -51.78571,51.78571 -28.60046,0 -51.78572,-23.18525 -51.78572,-51.78571 0,-28.60046 23.18526,-51.78572 51.78572,-51.78572 28.60046,0 51.78571,23.18526 51.78571,51.78572 z"
+             sodipodi:ry="51.785713"
+             sodipodi:rx="51.785713"
+             sodipodi:cy="449.14789"
+             sodipodi:cx="270.35715"
+             id="path3993"
+             style="fill:#800000;fill-opacity:1;stroke:none"
+             sodipodi:type="arc"
+             transform="matrix(0.07471604,0,0,0.07471604,1071.8148,1098.4134)"
+             inkscape:export-filename="C:\Users\clovis\projetos\facom-template\img\pet-logo.png"
+             inkscape:export-xdpi="90"
+             inkscape:export-ydpi="90" />
+          <path
+             sodipodi:type="arc"
+             style="fill:#800000;fill-opacity:1;stroke:none"
+             id="path3995"
+             sodipodi:cx="270.35715"
+             sodipodi:cy="449.14789"
+             sodipodi:rx="51.785713"
+             sodipodi:ry="51.785713"
+             d="m 322.14286,449.14789 c 0,28.60046 -23.18525,51.78571 -51.78571,51.78571 -28.60046,0 -51.78572,-23.18525 -51.78572,-51.78571 0,-28.60046 23.18526,-51.78572 51.78572,-51.78572 28.60046,0 51.78571,23.18526 51.78571,51.78572 z"
+             transform="matrix(0.14943206,0,0,0.14943206,1071.9388,1027.7437)"
+             inkscape:export-filename="C:\Users\clovis\projetos\facom-template\img\pet-logo.png"
+             inkscape:export-xdpi="90"
+             inkscape:export-ydpi="90" />
+          <path
+             transform="matrix(0.14943206,0,0,0.14943206,1092.0197,1046.1553)"
+             d="m 322.14286,449.14789 c 0,28.60046 -23.18525,51.78571 -51.78571,51.78571 -28.60046,0 -51.78572,-23.18525 -51.78572,-51.78571 0,-28.60046 23.18526,-51.78572 51.78572,-51.78572 28.60046,0 51.78571,23.18526 51.78571,51.78572 z"
+             sodipodi:ry="51.785713"
+             sodipodi:rx="51.785713"
+             sodipodi:cy="449.14789"
+             sodipodi:cx="270.35715"
+             id="path3997"
+             style="fill:#800000;fill-opacity:1;stroke:none"
+             sodipodi:type="arc"
+             inkscape:export-filename="C:\Users\clovis\projetos\facom-template\img\pet-logo.png"
+             inkscape:export-xdpi="90"
+             inkscape:export-ydpi="90" />
+          <path
+             sodipodi:type="arc"
+             style="fill:#800000;fill-opacity:1;stroke:none"
+             id="path3999"
+             sodipodi:cx="270.35715"
+             sodipodi:cy="449.14789"
+             sodipodi:rx="51.785713"
+             sodipodi:ry="51.785713"
+             d="m 322.14286,449.14789 c 0,28.60046 -23.18525,51.78571 -51.78571,51.78571 -28.60046,0 -51.78572,-23.18525 -51.78572,-51.78571 0,-28.60046 23.18526,-51.78572 51.78572,-51.78572 28.60046,0 51.78571,23.18526 51.78571,51.78572 z"
+             transform="matrix(0.14943206,0,0,0.14943206,1092.0197,1064.985)"
+             inkscape:export-filename="C:\Users\clovis\projetos\facom-template\img\pet-logo.png"
+             inkscape:export-xdpi="90"
+             inkscape:export-ydpi="90" />
+          <path
+             d="m 322.14286,449.14789 c 0,28.60046 -23.18525,51.78571 -51.78571,51.78571 -28.60046,0 -51.78572,-23.18525 -51.78572,-51.78571 0,-28.60046 23.18526,-51.78572 51.78572,-51.78572 28.60046,0 51.78571,23.18526 51.78571,51.78572 z"
+             sodipodi:ry="51.785713"
+             sodipodi:rx="51.785713"
+             sodipodi:cy="449.14789"
+             sodipodi:cx="270.35715"
+             id="path4001"
+             style="fill:#800000;fill-opacity:1;stroke:none"
+             sodipodi:type="arc"
+             transform="matrix(0.07471604,0,0,0.07471604,1112.2196,1061.3022)"
+             inkscape:export-filename="C:\Users\clovis\projetos\facom-template\img\pet-logo.png"
+             inkscape:export-xdpi="90"
+             inkscape:export-ydpi="90" />
+          <path
+             transform="matrix(0.14943206,0,0,0.14943206,1071.9388,1046.1553)"
+             d="m 322.14286,449.14789 c 0,28.60046 -23.18525,51.78571 -51.78571,51.78571 -28.60046,0 -51.78572,-23.18525 -51.78572,-51.78571 0,-28.60046 23.18526,-51.78572 51.78572,-51.78572 28.60046,0 51.78571,23.18526 51.78571,51.78572 z"
+             sodipodi:ry="51.785713"
+             sodipodi:rx="51.785713"
+             sodipodi:cy="449.14789"
+             sodipodi:cx="270.35715"
+             id="path4003"
+             style="fill:#800000;fill-opacity:1;stroke:none"
+             sodipodi:type="arc"
+             inkscape:export-filename="C:\Users\clovis\projetos\facom-template\img\pet-logo.png"
+             inkscape:export-xdpi="90"
+             inkscape:export-ydpi="90" />
+          <path
+             transform="matrix(0.07471604,0,0,0.07471604,1092.1388,1098.4134)"
+             sodipodi:type="arc"
+             style="fill:#800000;fill-opacity:1;stroke:none"
+             id="path4005"
+             sodipodi:cx="270.35715"
+             sodipodi:cy="449.14789"
+             sodipodi:rx="51.785713"
+             sodipodi:ry="51.785713"
+             d="m 322.14286,449.14789 c 0,28.60046 -23.18525,51.78571 -51.78571,51.78571 -28.60046,0 -51.78572,-23.18525 -51.78572,-51.78571 0,-28.60046 23.18526,-51.78572 51.78572,-51.78572 28.60046,0 51.78571,23.18526 51.78571,51.78572 z"
+             inkscape:export-filename="C:\Users\clovis\projetos\facom-template\img\pet-logo.png"
+             inkscape:export-xdpi="90"
+             inkscape:export-ydpi="90" />
+          <path
+             transform="matrix(0.07471604,0,0,0.07471604,1132.6956,1079.6242)"
+             sodipodi:type="arc"
+             style="fill:#800000;fill-opacity:1;stroke:none"
+             id="path4007"
+             sodipodi:cx="270.35715"
+             sodipodi:cy="449.14789"
+             sodipodi:rx="51.785713"
+             sodipodi:ry="51.785713"
+             d="m 322.14286,449.14789 c 0,28.60046 -23.18525,51.78571 -51.78571,51.78571 -28.60046,0 -51.78572,-23.18525 -51.78572,-51.78571 0,-28.60046 23.18526,-51.78572 51.78572,-51.78572 28.60046,0 51.78571,23.18526 51.78571,51.78572 z"
+             inkscape:export-filename="C:\Users\clovis\projetos\facom-template\img\pet-logo.png"
+             inkscape:export-xdpi="90"
+             inkscape:export-ydpi="90" />
+          <path
+             d="m 322.14286,449.14789 c 0,28.60046 -23.18525,51.78571 -51.78571,51.78571 -28.60046,0 -51.78572,-23.18525 -51.78572,-51.78571 0,-28.60046 23.18526,-51.78572 51.78572,-51.78572 28.60046,0 51.78571,23.18526 51.78571,51.78572 z"
+             sodipodi:ry="51.785713"
+             sodipodi:rx="51.785713"
+             sodipodi:cy="449.14789"
+             sodipodi:cx="270.35715"
+             id="path4009"
+             style="fill:#800000;fill-opacity:1;stroke:none"
+             sodipodi:type="arc"
+             transform="matrix(0.07471604,0,0,0.07471604,1152.7909,1098.4134)"
+             inkscape:export-filename="C:\Users\clovis\projetos\facom-template\img\pet-logo.png"
+             inkscape:export-xdpi="90"
+             inkscape:export-ydpi="90" />
+          <path
+             transform="matrix(0.14943206,0,0,0.14943206,1132.5909,1027.7437)"
+             d="m 322.14286,449.14789 c 0,28.60046 -23.18525,51.78571 -51.78571,51.78571 -28.60046,0 -51.78572,-23.18525 -51.78572,-51.78571 0,-28.60046 23.18526,-51.78572 51.78572,-51.78572 28.60046,0 51.78571,23.18526 51.78571,51.78572 z"
+             sodipodi:ry="51.785713"
+             sodipodi:rx="51.785713"
+             sodipodi:cy="449.14789"
+             sodipodi:cx="270.35715"
+             id="path4011"
+             style="fill:#800000;fill-opacity:1;stroke:none"
+             sodipodi:type="arc"
+             inkscape:export-filename="C:\Users\clovis\projetos\facom-template\img\pet-logo.png"
+             inkscape:export-xdpi="90"
+             inkscape:export-ydpi="90" />
+          <path
+             d="m 322.14286,449.14789 c 0,28.60046 -23.18525,51.78571 -51.78571,51.78571 -28.60046,0 -51.78572,-23.18525 -51.78572,-51.78571 0,-28.60046 23.18526,-51.78572 51.78572,-51.78572 28.60046,0 51.78571,23.18526 51.78571,51.78572 z"
+             sodipodi:ry="51.785713"
+             sodipodi:rx="51.785713"
+             sodipodi:cy="449.14789"
+             sodipodi:cx="270.35715"
+             id="path4013"
+             style="fill:#800000;fill-opacity:1;stroke:none"
+             sodipodi:type="arc"
+             transform="matrix(0.07471604,0,0,0.07471604,1132.6956,1061.3022)"
+             inkscape:export-filename="C:\Users\clovis\projetos\facom-template\img\pet-logo.png"
+             inkscape:export-xdpi="90"
+             inkscape:export-ydpi="90" />
+          <path
+             d="m 322.14286,449.14789 c 0,28.60046 -23.18525,51.78571 -51.78571,51.78571 -28.60046,0 -51.78572,-23.18525 -51.78572,-51.78571 0,-28.60046 23.18526,-51.78572 51.78572,-51.78572 28.60046,0 51.78571,23.18526 51.78571,51.78572 z"
+             sodipodi:ry="51.785713"
+             sodipodi:rx="51.785713"
+             sodipodi:cy="449.14789"
+             sodipodi:cx="270.35715"
+             id="path4015"
+             style="fill:#800000;fill-opacity:1;stroke:none"
+             sodipodi:type="arc"
+             transform="matrix(0.07471604,0,0,0.07471604,1071.8148,1061.3022)"
+             inkscape:export-filename="C:\Users\clovis\projetos\facom-template\img\pet-logo.png"
+             inkscape:export-xdpi="90"
+             inkscape:export-ydpi="90" />
+          <path
+             d="m 322.14286,449.14789 c 0,28.60046 -23.18525,51.78571 -51.78571,51.78571 -28.60046,0 -51.78572,-23.18525 -51.78572,-51.78571 0,-28.60046 23.18526,-51.78572 51.78572,-51.78572 28.60046,0 51.78571,23.18526 51.78571,51.78572 z"
+             sodipodi:ry="51.785713"
+             sodipodi:rx="51.785713"
+             sodipodi:cy="449.14789"
+             sodipodi:cx="270.35715"
+             id="path4017"
+             style="fill:#800000;fill-opacity:1;stroke:none"
+             sodipodi:type="arc"
+             transform="matrix(0.07471604,0,0,0.07471604,1051.9097,1079.6791)"
+             inkscape:export-filename="C:\Users\clovis\projetos\facom-template\img\pet-logo.png"
+             inkscape:export-xdpi="90"
+             inkscape:export-ydpi="90" />
+          <path
+             transform="matrix(0.07471604,0,0,0.07471604,1152.7909,1079.4979)"
+             sodipodi:type="arc"
+             style="fill:#800000;fill-opacity:1;stroke:none"
+             id="path4019"
+             sodipodi:cx="270.35715"
+             sodipodi:cy="449.14789"
+             sodipodi:rx="51.785713"
+             sodipodi:ry="51.785713"
+             d="m 322.14286,449.14789 c 0,28.60046 -23.18525,51.78571 -51.78571,51.78571 -28.60046,0 -51.78572,-23.18525 -51.78572,-51.78571 0,-28.60046 23.18526,-51.78572 51.78572,-51.78572 28.60046,0 51.78571,23.18526 51.78571,51.78572 z"
+             inkscape:export-filename="C:\Users\clovis\projetos\facom-template\img\pet-logo.png"
+             inkscape:export-xdpi="90"
+             inkscape:export-ydpi="90" />
+          <path
+             transform="matrix(0.07471604,0,0,0.07471604,1132.7097,1098.4134)"
+             sodipodi:type="arc"
+             style="fill:#800000;fill-opacity:1;stroke:none"
+             id="path4021"
+             sodipodi:cx="270.35715"
+             sodipodi:cy="449.14789"
+             sodipodi:rx="51.785713"
+             sodipodi:ry="51.785713"
+             d="m 322.14286,449.14789 c 0,28.60046 -23.18525,51.78571 -51.78571,51.78571 -28.60046,0 -51.78572,-23.18525 -51.78572,-51.78571 0,-28.60046 23.18526,-51.78572 51.78572,-51.78572 28.60046,0 51.78571,23.18526 51.78571,51.78572 z"
+             inkscape:export-filename="C:\Users\clovis\projetos\facom-template\img\pet-logo.png"
+             inkscape:export-xdpi="90"
+             inkscape:export-ydpi="90" />
+        </g>
+      </g>
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 869.64286,694.86218 0,50.71429"
+       id="path4047"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4049"
+       d="m 910.17857,694.86218 0,50.71429"
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <g
+       id="g4055"
+       transform="matrix(0,1,-1,0,1610.13,-169.69139)">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 869.64286,694.86218 0,50.71429"
+         id="path4051"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4053"
+         d="m 910.17857,694.86218 0,50.71429"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+  </g>
+</svg>

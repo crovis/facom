@@ -1,0 +1,483 @@
+
+
+/* ==========================================================================
+   Faculdade de computação - UFMS
+   ========================================================================== */
+
+body {
+    font-family: "Open Sans", sans-serif;
+}
+
+/* Elementos padrões */
+
+a {
+    color: #0b0c0c;
+    text-decoration: none;
+}
+
+a:focus {
+    outline: 2px solid rgb(255, 191, 71);
+    text-decoration: none;
+}
+
+
+/*
+=========================
+topo-fixo
+=========================
+*/
+
+.topo-fixo {
+    background: none repeat scroll 0% 0% #0b0c0c;
+    box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.5);
+    //position: fixed;
+    width: 100%;
+    height: 15px;
+    top: 0px;
+    z-index: 1030;
+    padding: 5px;
+}
+
+
+.topo-fixo a:hover {
+    opacity:0.8;
+    filter:alpha(opacity=80);
+}
+
+/*
+=======================
+topo-principal
+=======================
+*/
+
+.topo-principal {
+    background-color: #005ea5;
+    padding: 20px 20px 0px 20px;
+    border-bottom: 6px solid rgb(204, 204, 204);
+}
+
+.topo-principal p, h4 {
+    font-family: "Open Sans", sans-serif;
+    font-weight: 500;
+    color: #FFF;
+}
+
+.topo-principal small {
+    font-size: 1.2em;
+    padding: 0px;
+}
+
+.topo-principal-destaque {
+    font-weight: 700;
+}
+
+.topo-principal h1 {
+    font-family: "Ubuntu", "Open Sans", sans-serif;
+    font-weight: 700;
+    color: #FFF;
+    padding: 0px;
+    margin-top: 0px;
+    font-size: 3.4em;
+}
+
+.topo-principal img {
+    font-family: "Open Sans", sans-serif;
+    font-weight: 500;
+    color: #FFF;
+}
+
+.form-control {
+    margin: 0px !important;
+    transition: none;
+}
+
+.topo-buscar.form-control {
+    margin: 0px !important;
+    transition: none;
+}
+
+.topo-buscar input, button {
+    -webkit-border-radius: 0 !important;
+    -moz-border-radius: 0 !important;
+    -o-border-radius: 0 !important ;
+    border-radius: 0 !important;
+    border: 0 !important;
+}
+
+.topo-buscar button.buscar-botao {
+    position: absolute;
+    z-index: 4;
+    right: 10px;
+    top: 0px;
+}
+
+
+.topo-buscar input:focus, button:focus {
+    outline: 3px solid rgb(255, 191, 71);
+    box-shadow: none !important;
+}
+
+.filtro-buscar input, select {
+    -webkit-border-radius: 0 !important;
+    -moz-border-radius: 0 !important;
+    -o-border-radius: 0 !important ;
+    border-radius: 0 !important;
+    //border: 0 !important;
+    height: 45px;
+}
+
+.filtro-buscar select {
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+
+.filtro-buscar input:focus, select:focus {
+    outline: 3px solid rgb(255, 191, 71);
+    box-shadow: none !important;
+    border: 0 !important;
+}
+
+.topo-social {
+    margin-top: 20px;
+    padding: 20px 10px;
+    font-size: 20px;
+    margin-bottom: 0px;
+    color: #FFF;
+}
+
+.topo-social a {
+    color: #FFF;
+    text-decoration: underline;
+}
+
+.topo-social a:focus {
+    outline: 2px solid rgb(255, 191, 71);
+    text-decoration: none;
+}
+
+.topo-social a:hover {
+    color: #CCC;
+    text-decoration: underline;
+}
+
+
+.logo-principal small {
+    color: #FFFFFF;
+}
+
+@media(max-width:767px){
+    .pet-descricao-big {
+        visibility: hidden;
+        width: 0px;
+        height: 0px;
+    }
+    
+     .logo-secundaria {
+        visibility: hidden;
+        width: 0px;
+        height: 0px;
+    }
+}
+
+@media(min-width:768px){
+    .pet-descricao-big {
+        visibility: hidden;
+        width: 0px;
+        height: 0px;
+    }
+    
+    .logo-secundaria {
+        visibility: visible;
+    } 
+}
+@media(min-width:992px){    
+    .pet-descricao-short {
+        visibility: hidden;
+        width: 0px;
+        height: 0px;
+    }
+    
+    .pet-descricao-big {
+        visibility: visible;
+        width: auto;
+        height: auto;
+    }
+    
+    .logo-secundaria {
+        visibility: visible;
+    } 
+}
+
+
+/*
+=============================
+    navbar-principal
+=============================
+*/
+
+.navbar-principal.container {
+    margin: 0 -15px;
+}
+
+#menu-principal .navbar {
+    background: none repeat scroll 0% 0% #FFFFFF;
+    border: 0 !important;
+    border-radius: 0 !important;
+    box-shadow: none !important;
+    -webkit-box-shadow: none !important;
+    min-height:0px !important;
+    margin: 0px;
+}
+
+.navbar .navbar-nav > li > a {
+    color: #0B0C0C;
+    padding: 5px 10px 5px 10px ;
+}
+.navbar .navbar-nav > li > a:hover,
+.navbar .navbar-nav > li > a:focus {
+    color: #0B0C0C;
+    background-color: #FFFFFF !important;
+}
+.navbar .navbar-nav > .active > a, 
+.navbar .navbar-nav > .active > a:hover,
+.navbar .navbar-nav > .active > a:focus {
+    background-color: #FFFFFF !important;
+    color: #0B0C0C;
+}
+.navbar .navbar-nav > .open > a, 
+.navbar .navbar-nav > .open > a:hover, 
+.navbar .navbar-toggle {
+    border-color: #FFFFFF;
+    background-color: #FFFFFF !important;
+}
+
+.navbar .navbar-toggle:hover,
+.navbar .navbar-toggle:focus {
+    background-color: #FFFFFF;
+    background-color: #FFFFFF !important;
+}
+.navbar .navbar-toggle .icon-bar {
+    background-color: #FFFFFF;
+}
+
+.dropdown-menu > li > a:hover, 
+.dropdown-menu > li > a:focus, 
+.dropdown-menu > .active > a, 
+.dropdown-menu > .active > a:hover, 
+.dropdown-menu > .active > a:focus {
+    background-color: #8c1515;
+    background-image: none;
+}
+
+@media (max-width: 767px) {
+    .navbar .navbar-nav .open .dropdown-menu > li > a {
+        color: #0B0C0C;
+    }
+    .navbar .navbar-nav .open .dropdown-menu > li > a:hover,
+    .navbar .navbar-nav .open .dropdown-menu > li > a:focus {
+        background-color: #FFFFFF;
+        color: #0B0C0C;
+    }
+}
+
+/*
+======================
+dividir-menu <hr />
+======================
+*/
+.dividir-menu {
+    padding: 0px 0px 3px 0px;
+    margin: 0px;
+    color: #660033;
+}
+
+.conteudo-principal{
+    margin-top: 20px;
+}
+
+.conteudo-principal p {
+    font-family: "Open Sans", sans-serif;
+    font-weight: 500;
+    font-size: 1.1em;
+    line-height: 1.5em;
+}
+
+.conteudo-principal h3 {
+    font-family: "Open Sans", sans-serif;
+    font-weight: 700;
+    font-size: 2.0em;
+    color: #000102;
+}
+
+.slides-home h3 {
+    font-family: "Open Sans", sans-serif;
+    font-weight: 700;
+    font-size: 2.0em;
+    color: #000102;
+    margin-top: 10px;
+}
+
+.conteudo-principal h4 {
+    font-family: "Open Sans", sans-serif;
+    font-weight: 700;
+    font-size: 1.4em;
+    text-decoration: underline;
+}
+
+.conteudo-menu {
+    border-left: 1px #CCC solid;
+    padding-bottom:  30px ;
+}
+
+.conteudo-tags a {
+    color : #005ea5;
+    text-decoration: underline;
+}
+
+.conteudo-tags a:hover {
+    color: #0075ce;
+}
+
+.conteudo-tags h2 {
+    font-size: 1.3em;
+    font-weight: 700;
+    font-family: "Open Sans", sans-serif;
+}
+
+.conteudo-lista h2 {
+    font-size: 1.3em;
+    font-weight: 700;
+    font-family: "Open Sans", sans-serif;
+
+}
+
+.menu li, ul {
+        list-style: none;
+        margin: 0 !important;
+        padding: 5px !important;
+}
+
+.menu li {
+        border-bottom: 1px #eee solid;
+}
+
+.menu a, a:hover {
+    color: rgb(11, 12, 12);
+}
+
+.barra-navegacao {
+    background-color: beige;
+}
+
+.barra-navegacao a {
+    text-decoration: underline;
+
+}
+
+.barra-navegacao {
+    font-size: 1.2em;
+    padding: 10px 5px 10px 10px;
+    padding-top: 5px;
+    padding-bottom: 10px;
+}
+
+.slides-home {
+    padding: 20px;
+    //border-top: 6px #8c1515 solid;
+    background-color: beige;
+}
+
+.carousel-caption {
+    left: 5%;
+    padding: 8px 8px;
+    background-color: rgba(0,0,0, 0.4);
+
+}
+.carousel-caption h3 {
+    
+    color: #FFF;
+}
+
+/*
+=======================
+Notícias
+=======================
+*/
+
+#titulo-noticia {
+    text-decoration: none;
+}
+
+#titulo-noticia a {
+    font-family: "Open Sans", sans-serif;
+    font-weight: 700;
+    color: #8c1515;
+    font-size: 0.9em;
+    text-decoration: underline;
+}
+
+#titulo-noticia a:hover {
+    color: #da2020;
+}
+
+#data-noticia {
+    font-weight: 700;
+}
+
+.noticia-unica {
+    //border-top: 1px #CCC dotted;
+    margin-top: 20px;
+    //margin-bottom: 10px;
+}
+
+.noticia-mais {
+
+}
+
+/* Agenda */
+
+.agenda-link {
+    color: rgb(11, 12, 12);
+}
+
+.panel {
+     border: none !important;
+}
+
+.panel-default>.panel-heading {
+    background-image: none !important;
+}
+
+.divisao-pagina {
+    margin: 60px 30px 30px 80px;
+    clear: both;
+}
+
+/*
+==========================
+footer
+==========================
+*/
+
+.rodape-capivaras {
+    //background: #8c1515 url('../img/capivaras-rodape.png') repeat-x;
+    //padding-bottom: 40px;
+}
+.rodape {
+    color: #FFFFFF;
+    font-family: "Open Sans", sans-serif;
+    font-size: 1.0em;
+    background: rgb(225,168,48) ;
+    padding: 40px 25px 25px 25px;
+    margin-top: 100px;
+}
+
+.rodape p {
+    /*border-left: 2px #162d50 solid;*/
+    color: #FFF;
+}
+
+.rodape-superior{
+    background-color: #005ea5;
+}
